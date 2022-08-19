@@ -1,0 +1,9 @@
+instauto
+pandas
+numpy
+seaborn
+matplotlib
+plotly
+bs4
+openpyxl
+lxml
